@@ -1,0 +1,12 @@
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+data/incoming/
+data/rejected/
+data/processed/
+logs/
+!data/incoming/.gitkeep
+!data/rejected/.gitkeep
+!data/processed/.gitkeep
+!logs/.gitkeep
